@@ -1,0 +1,29 @@
+{
+  "name": "Timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soozee/timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soozee/timer/issues"
+  },
+  "homepage": "https://github.com/soozee/timer#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-batch": "^1.0.5",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
